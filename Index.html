@@ -1,73 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Music</title>
-    <link rel="stylesheet" href="assets/Css/style.css">
-</head>
-<body>
-<div id="background"></div>
-<div class="music-player">
-    <audio src="assets/Music/Mozhdah - Dernière Danse (Cover) _ _Ethnosessions(M4A_128K).m4a" id="audio"></audio>
-    <!-- In this div I add header that in header I added some Information about song-->
-    <div class="header">
-        <div class="image">
-            <img src="assets/Image/59050818_303.jpg">
-        </div>
-        <div class="information">
-            <div class="system">windows</div>
-            <div class="song-name">Mozhdah Jmalzada</div>
-            <div class="singers">Dernière Danse </div>
-        </div>
-        <div class="clear"></div>
 
-    </div>
-    <!-- This div that is main part, include all structure of page
+ 
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <title>Music Player</title>
+     <link rel="stylesheet" href="assets/Css/style.css">
+ </head>
+ <body>
+     <div id="background"></div>
+     <div class="music-player">
+         <audio src="assets/Music/Mozhdah - Dernière Danse (Cover) _ _Ethnosessions(M4A_128K).m4a" id="audio"></audio>
+         <!-- In this div I add header that in header I added some Information about song-->
+         <div class="header">
+             <div class="image">
+                 <img src="assets/Image/590508jpg18_303.">
+             </div>
+             <div class="information">
+                 <div class="system">windows</div>
+                 <div class="song-name">Mozhda_Jmalzada</div>
+                 <div class="singers"> Dernière Danse </div>
+             </div>
+             <div class="clear"></div>
+         </div>
+          <!-- This div that is main part, include all structure of page
     Inside this div I add foue div first for time line ,second for under time line, third for buttons
     and last for volum style
     -->
-    <div class="player">
-        <div class="time-line" id="time-line">
-            <div class="background"></div>
-            <div class="fill" id="fill"></div>
-            <div class="fill-btn" id="fill-btn"></div>
-            <div id="left-width-time-line"></div>
-            <div id="right-width-time-line"></div>
-        </div>
-        <div class="under-time-line">
-            <span id="time-past">0:00</span>
-            <span id="time-left">-0:00</span>
-        </div>
-        <div class="buttons">
-            <button class="btn">
-                <img src="assets/Image/replay 5.png" id="back-btn" onclick="back_5()">
-            </button>
-            <button class="btn">
-                <img src="assets/Image/play icon.png" id="play-pause-btn" onclick="play_and_pause()">
-            </button>
-            <button class="btn">
-                <img src="assets/Image/next 5 seconds.png" id="next-btn" onclick="next_5()">
-            </button>
-        </div>
-        <div class="volume-style">
-            <div class="volume" id="volume">
-                <div class="background"></div>
-                <div class="fill"></div>
-                <div class="fill-btn"></div>
-                <div id="left-width-volume"></div>
-                <div id="right-width-volume"></div>
-                <div id="volume-value">100</div>
-            </div>
-        </div>
-    </div>
-  </div>
-
-
-
-    <!--
-        Here is link of our javascript files
-    -->
-    <script src="assets/Js/script.js"></script>
-    <script src="assets/Js/slider.js"></script>
-</body>
-</html>
+         <div class="player">
+             <div class="time-line" id="time-line">
+                 <div class="background"></div>
+                 <div class="fill" id="fill"></div>
+                 <div class="fill-btn" id="fill-btn"></div>
+                 <div id="left-width-time-line"></div>
+                 <div id="right-width-time-line"></div>
+             </div>
+             <div class="under-time-line">
+                 <span id="time-past">0:00</span>
+                 <span id="time-left">-0:00</span>
+             </div>
+             <div class="buttons">
+                 <button class="btn">
+                     <img src="Image/replay 5.png" id="back-btn" onclick="back_5()">
+                 </button>
+                 <button class="btn">
+                     <img src="Image/play icon.png" id="play-pause-btn" onclick="play_and_pause()">
+                 </button>
+                 <button class="btn">
+                     <img src="Image/next 5 seconds.png" id="next-btn" onclick="next_5()">
+                 </button>
+             </div>
+             <div class="volume-style">
+                 <div class="volume" id="volume">
+                     <div class="background"></div>
+                     <div class="fill"></div>
+                     <div class="fill-btn"></div>
+                     <div id="left-width-volume"></div>
+                     <div id="right-width-volume"></div>
+                     <div id="volume-value">100</div>
+                 </div>
+             </div>
+         </div>
+     </div>
+ <!--Here is our js files -->
+     <script src="assets/Js/slider.js"></script>
+     <script src="assets/Js/script.js"></script>
+ </body>
+ </html>
