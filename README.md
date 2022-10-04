@@ -8,7 +8,8 @@
  - On the full screan I added all features that A music palyer should have it .
  - Featuers are included to....
  
-    * Information section
+ 
+    1_ Information section
    
     In this section I informed about song: Picture of singer , Name of singer (Mozhdah_Jmalzada) and Name of song(Dernière Danse).
 
