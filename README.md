@@ -12,3 +12,9 @@
     In this section I informed about song: Picture of singer , Name of singer (Mozhdah_Jmalzada) and Name of song(Dernière Danse).
 
 ![image](https://user-images.githubusercontent.com/100950189/193814097-570a5182-6464-4fb3-a4a4-31fd15456333.png)
+
+    - Scrolling song left to right
+   On slider.js I made a function that controll scrol to left and right of song.
+    
+    ![image](https://user-images.githubusercontent.com/100950189/193815094-b62d1a8c-f3ff-444f-8005-c77120be48ad.png)
+
