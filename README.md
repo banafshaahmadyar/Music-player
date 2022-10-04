@@ -1,5 +1,4 @@
 ## Music_Player
-  * This is a simple music player . That just play A song When I add it to it.
-  * And also on the main scream we can see picture of songer , name of songer and name of song.
-  * On caption of this page by using HTML , CSS and JAVASCRIPT I add some feathers , struchture and style for music player song.
-  * 
+  * This is a simple music player . That just play A song When.
+  
+![image](https://user-images.githubusercontent.com/100950189/193812142-668295d9-42f9-4d31-94f2-3c7c9b37959a.png)
