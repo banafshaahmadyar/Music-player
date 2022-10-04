@@ -26,3 +26,11 @@
     This section is include to four feature : 5sec play backward , paly or pause song and 5sec play forward .
     
    ![image](https://user-images.githubusercontent.com/100950189/193817083-05915745-a153-40e5-9f1c-8bc7711d98b4.png)
+   
+   - Valum
+
+For velum on slider.js I added some function that controll the mouse if we want to lifing the song we shold scroll it to right
+and if we want to reduce sound scroll it to left.
+
+ ![image](https://user-images.githubusercontent.com/100950189/193818679-9146ba5d-ecb5-41ca-b493-5b12bb0762e0.png)
+
