@@ -47,3 +47,8 @@ and if we want to reduce sound scroll it to left.
  * JAVASCRIPT
 
 ![image](https://user-images.githubusercontent.com/100950189/194745601-5b489783-92e2-40bb-9750-31330fee992f.png)
+
+## Deployment 
+
+-  Github :(https://github.com/banafshaahmadyar/Music-player)
+- Live Site: (https://8000-banafshaahm-musicplayer-kdx90lxvmd6.ws-eu70.gitpod.io/)
