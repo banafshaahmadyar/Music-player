@@ -1,5 +1,5 @@
 //This function that has four parameter and five variable 
-function slider(action, id, mousedown=function(){}, mouseup=function(){}){
+function slider(action, id, mousedown, mouseup){
     var parent = document.getElementById(id);
     var fill = parent.getElementsByClassName("fill")[0];
     var fill_btn = parent.getElementsByClassName("fill-btn")[0];
