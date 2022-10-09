@@ -35,8 +35,11 @@ and if we want to reduce sound scroll it to left.
 
  ![image](https://user-images.githubusercontent.com/100950189/193818679-9146ba5d-ecb5-41ca-b493-5b12bb0762e0.png)
 
-## Validetor 
+## validator
  
  * HTML
  
 ![image](https://user-images.githubusercontent.com/100950189/194745163-24a07c85-53af-4a24-9348-0ee72d12bf6a.png)
+ * CSS
+
+![image](https://user-images.githubusercontent.com/100950189/194745385-611821a4-c35e-4882-8eba-75e7083d9444.png)
