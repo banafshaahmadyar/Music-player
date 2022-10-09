@@ -1,7 +1,7 @@
 ## Music_Player
   * This is a simple music player . That just play A song When.
   
-![image](https://user-images.githubusercontent.com/100950189/193812142-668295d9-42f9-4d31-94f2-3c7c9b37959a.png)
+![image](https://user-images.githubusercontent.com/100950189/194747050-109090c5-d3c0-4886-9d45-a891e8b62f18.png)
 
 ## Features
  - This music palyer play A snog from famouse singer of Afghanistan.
