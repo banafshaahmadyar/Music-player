@@ -43,3 +43,7 @@ and if we want to reduce sound scroll it to left.
  * CSS
 
 ![image](https://user-images.githubusercontent.com/100950189/194745385-611821a4-c35e-4882-8eba-75e7083d9444.png)
+
+ * JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/100950189/194745601-5b489783-92e2-40bb-9750-31330fee992f.png)
