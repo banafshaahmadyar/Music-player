@@ -1,7 +1,7 @@
 ## Music_Player
   * This is a simple music player . That just play A song When.
   
-![image](https://user-images.githubusercontent.com/100950189/193812142-668295d9-42f9-4d31-94f2-3c7c9b37959a.png)
+![image](https://user-images.githubusercontent.com/100950189/194747050-109090c5-d3c0-4886-9d45-a891e8b62f18.png)
 
 ## Features
  - This music palyer play A snog from famouse singer of Afghanistan.
@@ -35,3 +35,20 @@ and if we want to reduce sound scroll it to left.
 
  ![image](https://user-images.githubusercontent.com/100950189/193818679-9146ba5d-ecb5-41ca-b493-5b12bb0762e0.png)
 
+## validator
+ 
+ * HTML
+ 
+![image](https://user-images.githubusercontent.com/100950189/194745163-24a07c85-53af-4a24-9348-0ee72d12bf6a.png)
+ * CSS
+
+![image](https://user-images.githubusercontent.com/100950189/194745385-611821a4-c35e-4882-8eba-75e7083d9444.png)
+
+ * JAVASCRIPT
+
+![image](https://user-images.githubusercontent.com/100950189/194745601-5b489783-92e2-40bb-9750-31330fee992f.png)
+
+## Deployment 
+
+-  Github :(https://github.com/banafshaahmadyar/Music-player)
+- Live Site: (https://8000-banafshaahm-musicplayer-kdx90lxvmd6.ws-eu70.gitpod.io/)
